@@ -1,0 +1,20 @@
+{
+  "name": "rpiPixelframe",
+  "version": "1.0.0",
+  "description": "A RPI Pixelframe",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rpiPixelframe"
+  },
+  "keywords": [
+    "rpi",
+    "Raspberry",
+    "Pixelframe"
+  ],
+  "author": "BoergiM",
+  "license": "ISC"
+}
